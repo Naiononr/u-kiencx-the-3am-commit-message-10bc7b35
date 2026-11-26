@@ -8,7 +8,7 @@ An entry for [The 3AM Commit Message](https://make.fun/bounty/u-kiencx-the-3am-c
 
 The line this program writes:
 
-> fix: removed the bug i introduced at 2am while fixing the bug from 1am
+> fix: i fixed the bug. the bug was me. please do not look at the diff
 
 ## Run it
 
